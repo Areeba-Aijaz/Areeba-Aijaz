@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Areeba Aijaz</h1>
+<br>
+<div align='center'><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=1AA7EC&center=true&vCenter=true&width=435&lines=FULL+STACT+DEVELOPER+;MERN+STACK+DEVELOPER+;FRONTEND+DEVELOPER+;REACT+DEVELOPER+;WEB+DEVELOPER" alt="Typing SVG" /></div>
  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm0wYmZkMzh1bzljeHBkeTA3dzd4OWMyZmx3bW5nYmVhcTZucTRmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif"/> 
 <h3 align="center">A Passionate MERN Stack developer from Pakistan</h3>
 
